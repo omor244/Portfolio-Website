@@ -31,10 +31,10 @@ export default function Contact() {
               <div>
                 <h3 className="text-lg font-semibold text-white">Email</h3>
                 <a
-                  href="mailto:mdmohebur11@gmail.com"
+                  href="mailto:omoronfire90909@gmail.com"
                   className="text-amber-600 underline hover:text-amber-500"
                 >
-                  mdmohebur11@gmail.com
+                  omoronfire90909@gmail.com
                 </a>
               </div>
             </div>
@@ -45,8 +45,8 @@ export default function Contact() {
               </div>
               <div>
                 <h3 className="text-lg font-semibold text-white">Phone / WhatsApp</h3>
-                <a href="tel:+8801987573972" className="text-gray-300">
-                  +880 1987 573972
+                <a href="tel:+8801792918325" className="text-gray-300">
+                  +880 1792 918325
                 </a>
               </div>
             </div>
@@ -110,9 +110,9 @@ export default function Contact() {
                   Or email me directly at{" "}
                   <a
                     className="underline text-amber-600 hover:text-amber-500"
-                    href="mailto:mdmohebur11@gmail.com"
+                    href="mailto:omoronfire90909@gmail.com"
                   >
-                    mdmohebur11@gmail.com
+                    omoronfire90909@gmail.com
                   </a>
                 </span>
               </div>

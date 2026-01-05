@@ -21,7 +21,7 @@ const Footer = () => {
   const socialLinks = [
     { icon: Github, label: "GitHub", href: "https://github.com/omor244" },
     { icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/omor-dev/" },
-    { icon: Twitter, label: "Twitter", href: "#" },
+    // { icon: Twitter, label: "Twitter", href: "#" },
     { icon: Mail, label: "Email", href: "mailto:your@email.com" },
   ];
 
@@ -119,6 +119,7 @@ const Footer = () => {
                   <motion.a
                     key={social.label}
                     href={social.href}
+                    target="_blank"
                     whileHover={{ scale: 1.2, rotate: 10 }}
                     whileTap={{ scale: 0.95 }}
                     className="w-10 h-10 rounded-full bg-linear-to-br from-amber-500 to-amber-600 flex items-center justify-center text-white hover:shadow-lg hover:shadow-amber-500/50 transition-shadow"

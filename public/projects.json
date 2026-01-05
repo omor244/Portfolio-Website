@@ -1,12 +1,23 @@
 [
   {
     "id": "1",
-    "title": "Game Zone",
-    "image": "/gameZone.png",
-    "stack": ["React", "Tailwind CSS", "firebase", "Vite"],
-    "clientRepo": "https://github.com/SEMohebur/Game-Zone-game-library",
-    "liveLink": " https://roaring-cactus-fc10fd.netlify.app/",
-    "description": "Game Zone is an interactive game library website where users can browse, download, and view detailed information about various popular games. It is fully secured with Firebase Authentication to ensure the safety of users' personal information and access.",
+    "title": "Project Management & Tracking tool",
+    "image": "https://i.ibb.co.com/KxYY93dJ/Screenshot-72.png",
+    "stack": [
+      "next.js",
+      "Tailwind CSS",
+      "firebase",
+      "Node.js",
+      "MongoDB",
+      "Express.js",
+      "javascript",
+      "Tan-Stack-Query",
+      "JWT",
+      "Axios"
+    ],
+    "clientRepo": "https://github.com/omor244/Project-Pulse-client",
+    "liveLink": "https://projectpluse.vercel.app",
+    "description": "Project-Pulse is a powerful project management tool designed to help teams track tasks and deadlines in real-time. It features a dynamic dashboard where users can create, update, and monitor project progress ('pulses') to ensure efficiency and team collaboration.",
     "challenges": "Implementing secure Firebase Authentication for multiple user roles",
     "improvements": "real-time multiplayer functionality for games."
   },
@@ -30,8 +41,8 @@
   },
   {
     "id": "3",
-    "title": "Eco Bill – Utility Bill Management System",
-    "image": "/EcoBill.png",
+    "title": "EcoTrack",
+    "image": "https://i.ibb.co.com/Pvw16Wvn/Screenshot-71.png",
     "stack": [
       "React.js",
       "React Router (Data Mode)",
@@ -52,8 +63,8 @@
       "Dotenv",
       "CORS"
     ],
-    "clientRepo": "https://github.com/SEMohebur/Eco-Bill-clientSide",
-    "liveLink": "https://stunning-beijinho-9afe4e.netlify.app",
+    "clientRepo": "https://github.com/omor244/B12-A10Project-clint",
+    "liveLink": "https://zap-shift-five.vercel.app",
     "description": "This is a full-featured MERN Stack web application designed with a modern, responsive user interface. The frontend is built using React.js, Tailwind CSS, and DaisyUI, ensuring a clean and mobile-friendly experience. Firebase Authentication provides secure Login/Registration and Google Login support. The app includes smooth animations using Framer Motion, interactive alerts with SweetAlert2, and jsPDF integration for generating downloadable PDF reports. On the backend, the project uses Node.js, Express.js, MongoDB, and Mongoose to create a secure and scalable RESTful API. JWT, CORS, and Dotenv are implemented to ensure secure access control and protected routes. Overall, this project combines modern UI, reliable authentication, and full CRUD functionality to deliver a complete end-to-end user experience.",
     "challenges": "Firebase Auth setup, complex state management, responsive UI handling, dynamic PDF report generation, and creating secure validated APIs were the primary challenges.",
     "improvements": "Payment Gateway Integration"

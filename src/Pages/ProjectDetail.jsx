@@ -72,14 +72,14 @@ const ProjectDetail = () => {
 
         {/* Two Columns Section */}
         <div className="grid md:grid-cols-2 gap-10 mt-12">
-          <div className="bg-gray-50 p-6 rounded-xl shadow-sm">
+          <div className="bg-gray-700 p-6 rounded-xl shadow-sm">
             <h3 className="text-lg font-semibold text-white">Challenges</h3>
             <p className="mt-3 text-gray-300 leading-relaxed">
               {project.challenges}
             </p>
           </div>
 
-          <div className="bg-gray-50 p-6 rounded-xl shadow-sm">
+          <div className="bg-gray-700 p-6 rounded-xl shadow-sm">
             <h3 className="text-lg font-semibold text-white">
               Improvements & Future Plans
             </h3>

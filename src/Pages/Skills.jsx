@@ -9,20 +9,24 @@ const Skills = () => {
       { name: "JavaScript", level: 85 },
       { name: "React", level: 80 },
       { name: "NextJs", level: 75 },
-      { name: "Redux", level: 75 },
+    
+      // { name: "Redux", level: 75 },
       { name: "Tailwind CSS", level: 85 },
-      { name: "Bootstrap 5", level: 80 },
+      // { name: "Bootstrap 5", level: 80 },
     ],
     Backend: [
       { name: "Node.js", level: 80 },
       { name: "Express.js", level: 75 },
       { name: "MongoDB", level: 70 },
+      { name: "NextJs Server", level: 60 },
     ],
     Tools: [
       { name: "Git", level: 90 },
       { name: "VS Code", level: 95 },
       { name: "Vercel", level: 80 },
       { name: "Postman", level: 85 },
+      { name: "Tan Stack Query", level: 90 },
+      { name: "React Hook Form ", level: 70 },
     ],
   };
 
